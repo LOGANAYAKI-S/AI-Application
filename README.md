@@ -11,3 +11,12 @@ A simple AI chatbot built using Python and Groq API.
 ## Technologies Used
 - Python
 - Groq API
+
+## Added conversation memory functionality
+- Improved chatbot interaction workflow
+- Implemented Streamlit web interface
+- Tested AI response handling and chat history
+
+## Memory Feature
+The chatbot can now remember previous messages in the conversation.  
+This helps the AI give better and more connected responses during chatting.
