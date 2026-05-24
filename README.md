@@ -26,3 +26,4 @@ The chatbot is designed with a clean and user-friendly interface inspired by mod
 - Groq API
 - News API
 - Generative AI
+
