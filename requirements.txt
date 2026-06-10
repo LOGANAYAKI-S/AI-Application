@@ -1,6 +1,6 @@
 streamlit
 groq
+PyPDF2
 requests
-streamlit-mic-recorder
-SpeechRecognition
-pydub
+python-dotenv
+reportlab
