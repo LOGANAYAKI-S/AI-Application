@@ -1,4 +1,4 @@
-from modules.chatbot import get_ai_response
+from chatbot import get_ai_response
 
 def generate_notes(prompt):
 
