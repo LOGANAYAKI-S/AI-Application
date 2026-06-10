@@ -1,14 +1,13 @@
 import streamlit as st
 
-from modules.code_explainer import explain_code
-from modules.document import read_document
-from modules.document import summarize_document
-from modules.chatbot import get_ai_response
-from modules.news import get_news
-from modules.ui import setup_ui
-from modules.resume import generate_resume
-from modules.notes_generator import generate_notes
-
+from code_explainer import explain_code
+from document import read_document
+from document import summarize_document
+from chatbot import get_ai_response
+from news import get_news
+from ui import setup_ui
+from resume import generate_resume
+from notes_generator import generate_notes
 # ---------------- UI ---------------- #
 
 setup_ui()
