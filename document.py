@@ -1,6 +1,6 @@
 import PyPDF2
 
-from modules.chatbot import get_ai_response
+from chatbot import get_ai_response
 
 def read_document(uploaded_file):
 
